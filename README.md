@@ -8,8 +8,8 @@ I'm passionate about empowering IT professionals through PowerShell education an
 
 ## 📫 Let's Connect
 
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/psjamesp.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-petty-m-s-75672b42)
 
 > 💬 **Want me to speak at your event?** Drop me a message on Bluesky or LinkedIn! I'd be happy to submit sessions that would be a great fit for your audience.
 
@@ -80,6 +80,6 @@ $Topics = @(
 
 *"Stop clicking, start scripting"* 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=psjamesp&color=blue&style=flat-square)
 
 </div>
