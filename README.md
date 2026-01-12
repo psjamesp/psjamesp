@@ -2,6 +2,7 @@
 
 | Session Title                      |Session Title| Date  | Repository Link |
 |------------------------------------|--------------|----------------|----------------|
+| Code Mash 2026 | Stop Clicking, Start Scripting: PowerShell for Real People | Janurary 13-16, 2026 | [Files Here](https://github.com/psjamesp/codemash2026) |
 | Live 360 Tech Con | TMM02 Workshop: PowerShell 101: Unleash the Power of Automation <br> PowerShell output that doesn't suck <br>Just Enough Administration| November 17 - 20, 2026 | [Live 360 Tech Con materials](https://github.com/psjamesp/Live360_2025)
 | Spice World 2025 | PowerShell Workshop | November 11-13, 2025 | [Spcieworld Files](https://github.com/psjamesp/sw2025-workshop) |
 |O'reilly Media Live Course| Fundamentals of PowerShell | March 20, 2025 | [Link Here](https://www.oreilly.com/live-events/fundamentals-of-powershell)|
