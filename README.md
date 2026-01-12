@@ -1,4 +1,10 @@
-## Presentations Dates
+# Upcoming Engagements
+### Want me to present at your event, Drop me a message on Bluesky or Linkedin and I'm happy to submit some sessions that I feel would fit great. 
+
+SQL Sat Baton Rouge - July 18
+
+
+## Past Presentations Dates
 
 | Session Title                      |Session Title| Date  | Repository Link |
 |------------------------------------|--------------|----------------|----------------|
